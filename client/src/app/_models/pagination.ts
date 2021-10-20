@@ -1,7 +1,7 @@
 import { NumberSymbol } from "@angular/common";
 
 export interface Pagination {
-    curretnPage: number;
+    currentPage: number;
     itemsPerPae: number;
     totalItems: number;
     totalPages: NumberSymbol;
